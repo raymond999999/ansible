@@ -5,4 +5,5 @@ ansible 企业实战案例
 
 由于github限制单个文件超过100M，把文件打包传到百度网盘，大家自行去下载。
 
-链接：https://pan.baidu.com/s/1CuHuMIu6dDJ9IdfkF1ieMw?pwd=kucb 提取码：kucb
+链接：https://pan.baidu.com/s/1cGce9xBq4zUHL_QHwLnFjA 
+提取码：lsx2 
