@@ -3,7 +3,4 @@ ansible 企业实战案例
 
 更多关于ansible企业实战案例的介绍，请去"raymond.blog.csdn.net"的“Ansible 企业实战案例”专栏。
 
-由于github限制单个文件超过100M，把文件打包传到百度网盘，大家自行去下载。
-
-链接：https://pan.baidu.com/s/1cGce9xBq4zUHL_QHwLnFjA 
-提取码：lsx2 
+由于github限制单个文件超过100M上传不了，如果有需要源码的请加本人微信：raymond9999999
